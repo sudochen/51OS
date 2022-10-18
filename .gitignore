@@ -1,0 +1,9 @@
+list
+*.elf
+*.bak
+*.o
+*.map
+*.sym
+*.a
+*.cfg
+*.img
